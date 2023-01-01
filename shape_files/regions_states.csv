@@ -1,0 +1,589 @@
+,0
+0," Western Australia (AU-WA / 0)
+center: [122.18041871 -25.46675414]"
+1," Northern Territory (AU-NT / 1)
+center: [133.37535131 -19.47638927]"
+2," South Australia (AU-SA / 2)
+center: [135.82731058 -30.08314227]"
+3," Queensland (AU-QLD / 3)
+center: [144.5386934 -22.5743701]"
+4," Tasmania (AU-TAS / 4)
+center: [146.59539434 -42.01712311]"
+5," Victoria (AU-VIC / 5)
+center: [144.30712195 -36.85528279]"
+6," Australian Capital Territory (AU-ACT / 6)
+center: [149.00366975 -35.49896277]"
+7," Jervis Bay Territory (AU-X02~ / 7)
+center: [150.67317073 -35.15430701]"
+8," New South Wales (AU-NSW / 8)
+center: [147.01991691 -32.16842618]"
+9," Acre (BR-AC / 9)
+center: [-70.47290222  -9.29837107]"
+10," Rondônia (BR-RO / 10)
+center: [-62.84499207 -10.91669403]"
+11," Roraima (BR-RR / 11)
+center: [-61.40527269   2.06560562]"
+12," Amazonas (BR-AM / 12)
+center: [-64.71811934  -4.18424148]"
+13," Pará (BR-PA / 13)
+center: [-53.26914677  -4.18191733]"
+14," Mato Grosso do Sul (BR-MS / 14)
+center: [-54.84608602 -20.33205406]"
+15," Amapá (BR-AP / 15)
+center: [-51.97999444   1.45561487]"
+16," Mato Grosso (BR-MT / 16)
+center: [-55.92641644 -12.96231453]"
+17," Paraná (BR-PR / 17)
+center: [-51.63321386 -24.63251462]"
+18," Federal (BR-DF / 18)
+center: [-47.78731032 -15.7705658 ]"
+19," Goiás (BR-GO / 19)
+center: [-49.60520395 -16.02195406]"
+20," Tocantins (BR-TO / 20)
+center: [-48.32542994 -10.1447369 ]"
+21," São Paulo (BR-SP / 21)
+center: [-48.73753108 -22.26173367]"
+22," Maranhão (BR-MA / 22)
+center: [-45.29481156  -5.10690469]"
+23," Rio de Janeiro (BR-RJ / 23)
+center: [-42.66507835 -22.18927736]"
+24," Piauí (BR-PI / 24)
+center: [-42.98838204  -7.40977813]"
+25," Minas Gerais (BR-MG / 25)
+center: [-44.67636716 -18.45137723]"
+26," Espírito Santo (BR-ES / 26)
+center: [-40.666557  -19.5674112]"
+27," Bahia (BR-BA / 27)
+center: [-41.70537987 -12.47470393]"
+28," Ceará (BR-CE / 28)
+center: [-39.62562392  -5.09813564]"
+29," Sergipe (BR-SE / 29)
+center: [-37.44464505 -10.57700634]"
+30," Alagoas (BR-AL / 30)
+center: [-36.61869491  -9.51594499]"
+31," Rio Grande do Norte (BR-RN / 31)
+center: [-36.68218882  -5.83913283]"
+32," Pernambuco (BR-PE / 32)
+center: [-37.99878085  -8.33151136]"
+33," Paraíba (BR-PB / 33)
+center: [-36.82578794  -7.11773793]"
+34," Santa Catarina (BR-SC / 34)
+center: [-50.50103697 -27.24923628]"
+35," Rio Grande do Sul (BR-RS / 35)
+center: [-53.31982258 -29.7355323 ]"
+36," Alberta (CA-AB / 36)
+center: [-114.50969896   55.16793445]"
+37," British Columbia (CA-BC / 37)
+center: [-124.60841108   54.96273717]"
+38," Manitoba (CA-MB / 38)
+center: [-97.43860348  54.91963806]"
+39," New Brunswick (CA-NB / 39)
+center: [-66.38758176  46.63158405]"
+40," Newfoundland and Labrador (CA-NL / 40)
+center: [-61.95421778  54.27088442]"
+41," Nova Scotia (CA-NS / 41)
+center: [-63.94837603  44.91348777]"
+42," Northwest Territories (CA-NT / 42)
+center: [-119.62567198   64.37126981]"
+43," Nunavut (CA-NU / 43)
+center: [-98.59545738  65.91323448]"
+44," Ontario (CA-ON / 44)
+center: [-85.83278192  50.06645414]"
+45," Prince Edward Island (CA-PE / 45)
+center: [-63.23960006  46.39998528]"
+46," Quebec (CA-QC / 46)
+center: [-71.93366619  53.7399432 ]"
+47," Saskatchewan (CA-SK / 47)
+center: [-105.89906427   54.41939241]"
+48," Yukon (CA-YT / 48)
+center: [-135.50901978   63.63312446]"
+49," Alaska (US-AK / 49)
+center: [-152.72907802   64.57880465]"
+50," Alabama (US-AL / 50)
+center: [-86.83084776  32.79505808]"
+51," Arkansas (US-AR / 51)
+center: [-92.44430834  34.90445378]"
+52," Arizona (US-AZ / 52)
+center: [-111.66017496   34.29157832]"
+53," California (US-CA / 53)
+center: [-119.60281828   37.24943878]"
+54," Colorado (US-CO / 54)
+center: [-105.53337298   39.00018356]"
+55," Connecticut (US-CT / 55)
+center: [-72.72549338  41.62693724]"
+56," Washington (US-DC / 56)
+center: [-77.01910069  38.91800275]"
+57," Delaware (US-DE / 57)
+center: [-75.50534276  38.99459123]"
+58," Florida (US-FL / 58)
+center: [-82.49969956  28.66973574]"
+59," Georgia (US-GA / 59)
+center: [-83.45762257  32.65992511]"
+60," Hawaii (US-HI / 60)
+center: [-155.50958007   19.61204876]"
+61," Iowa (US-IA / 61)
+center: [-93.49537024  42.08773083]"
+62," Idaho (US-ID / 62)
+center: [-114.65182803   44.39270599]"
+63," Illinois (US-IL / 63)
+center: [-89.1526855   40.12512357]"
+64," Indiana (US-IN / 64)
+center: [-86.28319378  39.91827128]"
+65," Kansas (US-KS / 65)
+center: [-98.36887813  38.48526042]"
+66," Kentucky (US-KY / 66)
+center: [-85.28499179  37.53185094]"
+67," Louisiana (US-LA / 67)
+center: [-92.01792469  31.08650337]"
+68," Massachusetts (US-MA / 68)
+center: [-71.82201941  42.27324431]"
+69," Maryland (US-MD / 69)
+center: [-76.80383881  39.06829614]"
+70," Maine (US-ME / 70)
+center: [-69.24262692  45.40377411]"
+71," Michigan (US-MI / 71)
+center: [-85.74024779  44.87543628]"
+72," Minnesota (US-MN / 72)
+center: [-94.19757893  46.34392436]"
+73," Missouri (US-MO / 73)
+center: [-92.49201452  38.38416885]"
+74," Mississippi (US-MS / 74)
+center: [-89.67094369  32.76509167]"
+75," Montana (US-MT / 75)
+center: [-109.62537887   47.03154016]"
+76," North Carolina (US-NC / 76)
+center: [-79.41412695  35.55827917]"
+77," North Dakota (US-ND / 77)
+center: [-100.4597362    47.44490432]"
+78," Nebraska (US-NE / 78)
+center: [-99.79096163  41.53125219]"
+79," New Hampshire (US-NH / 79)
+center: [-71.57936199  43.68840418]"
+80," New Jersey (US-NJ / 80)
+center: [-74.6655755   40.19854057]"
+81," New Mexico (US-NM / 81)
+center: [-106.11079181   34.42199771]"
+82," Nevada (US-NV / 82)
+center: [-116.65213977   39.35567353]"
+83," New York (US-NY / 83)
+center: [-75.75882586  43.05028249]"
+84," Ohio (US-OH / 84)
+center: [-82.71035089  40.4185862 ]"
+85," Oklahoma (US-OK / 85)
+center: [-97.51155138  35.5895172 ]"
+86," Oregon (US-OR / 86)
+center: [-120.54478662   43.940782  ]"
+87," Pennsylvania (US-PA / 87)
+center: [-77.84219473  40.89962674]"
+88," Rhode Island (US-RI / 88)
+center: [-71.59678393  41.70161883]"
+89," South Carolina (US-SC / 89)
+center: [-80.90027394  33.91939622]"
+90," South Dakota (US-SD / 90)
+center: [-100.22230111   44.44094016]"
+91," Tennessee (US-TN / 91)
+center: [-86.33938445  35.85341494]"
+92," Texas (US-TX / 92)
+center: [-99.35697936  31.50533861]"
+93," Utah (US-UT / 93)
+center: [-111.67420898   39.32751313]"
+94," Virginia (US-VA / 94)
+center: [-78.88527824  37.52814785]"
+95," Vermont (US-VT / 95)
+center: [-72.66637672  44.07599172]"
+96," Washington (US-WA / 96)
+center: [-120.41478103   47.37512486]"
+97," Wisconsin (US-WI / 97)
+center: [-89.73709377  44.64596564]"
+98," West Virginia (US-WV / 98)
+center: [-80.61117898  38.64713369]"
+99," Wyoming (US-WY / 99)
+center: [-107.53992132   43.00030535]"
+100," Gansu (CN-GS / 100)
+center: [100.92504308  37.82780077]"
+101," Qinghai (CN-QH / 101)
+center: [96.00255891 35.74956642]"
+102," Guangxi (CN-GX / 102)
+center: [108.77569023  23.83124061]"
+103," Guizhou (CN-GZ / 103)
+center: [106.87255182  26.81417997]"
+104," Chongqing (CN-CQ / 104)
+center: [107.8603021   30.05470171]"
+105," Beijing (CN-BJ / 105)
+center: [116.40670471  40.17319715]"
+106," Fujian (CN-FJ / 106)
+center: [117.97317927  26.08451383]"
+107," Anhui (CN-AH / 107)
+center: [117.22427063  31.81912316]"
+108," Guangdong (CN-GD / 108)
+center: [113.42927971  23.37266192]"
+109," Tibet (CN-XZ / 109)
+center: [88.1078516  31.68861516]"
+110," Sikkim (IN-SK / 110)
+center: [88.44610487 27.57090315]"
+111," Xinjiang (CN-XJ / 111)
+center: [85.18871424 41.09924807]"
+112," Hainan (CN-HI / 112)
+center: [109.74164105  19.20008917]"
+113," Ningxia (CN-NX / 113)
+center: [106.16201961  37.26780595]"
+114," Shaanxi (CN-SN / 114)
+center: [108.86321778  35.18188421]"
+115," Shanxi (CN-SX / 115)
+center: [112.28110025  37.56950818]"
+116," Hubei (CN-HB / 116)
+center: [112.26682931  30.97521444]"
+117," Hunan (CN-HN / 117)
+center: [111.69892599  27.61377795]"
+118," Sichuan (CN-SC / 118)
+center: [102.70353399  30.6145041 ]"
+119," Yunnan (CN-YN / 119)
+center: [101.47054287  24.97637886]"
+120," Hebei (CN-HE / 120)
+center: [116.11707604  39.54978753]"
+121," Henan (CN-HA / 121)
+center: [113.60663639  33.88369067]"
+122," Liaoning (CN-LN / 122)
+center: [122.60918579  41.2990514 ]"
+123," Shandong (CN-SD / 123)
+center: [118.1476771   36.34892656]"
+124," Tianjin (CN-TJ / 124)
+center: [117.31696019  39.30046303]"
+125," Jiangxi (CN-JX / 125)
+center: [115.71434298  27.61684466]"
+126," Jiangsu (CN-JS / 126)
+center: [119.43596872  32.97931835]"
+127," Shanghai (CN-SH / 127)
+center: [121.37692439  31.08770949]"
+128," Zhejiang (CN-ZJ / 128)
+center: [120.03830436  29.16740653]"
+129," Jilin (CN-JL / 129)
+center: [126.17244382  43.67826488]"
+130," Inner Mongolia (CN-NM / 130)
+center: [113.90653635  44.08092523]"
+131," Heilongjiang (CN-HL / 131)
+center: [127.74390468  47.87397808]"
+132," Aceh (ID-AC / 132)
+center: [96.92708814  4.31781643]"
+133," East Kalimantan (ID-KI / 133)
+center: [116.37084873   1.34140898]"
+134," West Java (ID-JB / 134)
+center: [107.60956331  -6.91574089]"
+135," Central Java (ID-JT / 135)
+center: [110.2125709   -7.26968453]"
+136," Bengkulu (ID-BE / 136)
+center: [102.37697127  -3.5364202 ]"
+137," Banten (ID-BT / 137)
+center: [106.11791907  -6.46241623]"
+138," Jakarta (ID-JK / 138)
+center: [106.85099351  -6.19839291]"
+139," West Kalimantan (ID-KB / 139)
+center: [ 1.1116989e+02 -8.5429867e-02]"
+140," Lampung (ID-LA / 140)
+center: [105.02572985  -4.91943294]"
+141," South Sumatra (ID-SS / 141)
+center: [104.18392909  -3.23653871]"
+142," Bangka Belitung Islands (ID-BB / 142)
+center: [105.98826192  -2.23375894]"
+143," Bali (ID-BA / 143)
+center: [115.13494014  -8.36193785]"
+144," East Java (ID-JI / 144)
+center: [112.63164822  -7.8228373 ]"
+145," South Kalimantan (ID-KS / 145)
+center: [115.38534728  -2.92904484]"
+146," East Nusa Tenggara (ID-NT / 146)
+center: [121.1556492   -8.59592451]"
+147," South Sulawesi (ID-SN / 147)
+center: [120.16817158  -3.59405793]"
+148," West Sulawesi (ID-SR / 148)
+center: [119.34757959  -2.46181853]"
+149," Riau Islands (ID-KR / 149)
+center: [108.21464915   3.93427881]"
+150," Gorontalo (ID-GO / 150)
+center: [122.3544029    0.68653926]"
+151," Jambi (ID-JA / 151)
+center: [102.75884653  -1.68583764]"
+152," Central Kalimantan (ID-KT / 152)
+center: [113.42890966  -1.59379733]"
+153," West Papua (ID-PB / 153)
+center: [133.15920859  -2.09792895]"
+154," North Sumatra (ID-SU / 154)
+center: [99.13599107  2.3234168 ]"
+155," Riau (ID-RI / 155)
+center: [101.7455878    0.45101909]"
+156," North Sulawesi (ID-SA / 156)
+center: [124.25264621   0.87380034]"
+157," North Maluku (ID-MU / 157)
+center: [128.01344955   0.86510319]"
+158," West Sumatra (ID-SB / 158)
+center: [100.62541687  -0.66256687]"
+159," Yogyakarta (ID-YO / 159)
+center: [110.45471849  -7.90035114]"
+160," Maluku (ID-MA / 160)
+center: [129.45338841  -3.1968572 ]"
+161," West Nusa Tenggara (ID-NB / 161)
+center: [117.85734895  -8.62755172]"
+162," Southeast Sulawesi (ID-SG / 162)
+center: [121.83548966  -3.81012602]"
+163," Central Sulawesi (ID-ST / 163)
+center: [121.10149323  -0.97811068]"
+164," Papua (ID-PA / 164)
+center: [138.70969276  -4.55622894]"
+165," Telangana (IN-TG / 165)
+center: [79.04947929 17.79715231]"
+166," Ladakh (IN-LA / 166)
+center: [77.61249892 33.89728443]"
+167," Chandigarh (IN-CH / 167)
+center: [76.77776077 30.73862162]"
+168," Delhi (IN-DL / 168)
+center: [77.10932543 28.65936527]"
+169," Himachal Pradesh (IN-HP / 169)
+center: [77.22213382 31.93413631]"
+170," Haryana (IN-HR / 170)
+center: [76.33408229 29.20826586]"
+171," Jammu and Kashmir (IN-JK / 171)
+center: [75.08052881 33.55732861]"
+172," Andhra Pradesh (IN-AP / 172)
+center: [79.92490443 15.72010065]"
+173," Kerala (IN-KL / 173)
+center: [76.42407171 10.42250719]"
+174," Lakshadweep (IN-LD / 174)
+center: [73.05573647  8.27523414]"
+175," Odisha (IN-OR / 175)
+center: [84.4159855  20.51692654]"
+176," Dadra and Nagar Haveli and Daman and Diu (IN-DH / 176)
+center: [73.02833273 20.1647844 ]"
+177," Karnataka (IN-KA / 177)
+center: [76.15354741 14.71917788]"
+178," Goa (IN-GA / 178)
+center: [74.05252264 15.34431696]"
+179," Andaman and Nicobar Islands (IN-AN / 179)
+center: [92.82241763 12.53593202]"
+180," Assam (IN-AS / 180)
+center: [92.83279797 26.35703926]"
+181," Manipur (IN-MN / 181)
+center: [93.86041172 24.73114195]"
+182," Nagaland (IN-NL / 182)
+center: [94.44909301 26.06249199]"
+183," Meghalaya (IN-ML / 183)
+center: [91.28420658 25.53770024]"
+184," Punjab (IN-PB / 184)
+center: [75.4044528  30.84631677]"
+185," Rajasthan (IN-RJ / 185)
+center: [73.8355446  26.59202015]"
+186," Uttar Pradesh (IN-UP / 186)
+center: [80.54537802 26.93407505]"
+187," Uttarakhand (IN-UT / 187)
+center: [79.19758172 30.16119053]"
+188," Jharkhand (IN-JH / 188)
+center: [85.53288519 23.64442583]"
+189," West Bengal (IN-WB / 189)
+center: [87.96803573 23.81161177]"
+190," Bihar (IN-BR / 190)
+center: [85.6050575  25.66484786]"
+191," Chhattisgarh (IN-CT / 191)
+center: [82.03430758 21.25800325]"
+192," Madhya Pradesh (IN-MP / 192)
+center: [78.29311463 23.5390921 ]"
+193," Puducherry (IN-PY / 193)
+center: [79.79652248 10.91024007]"
+194," Tamil Nadu (IN-TN / 194)
+center: [78.39893974 11.01352127]"
+195," Gujarat (IN-GJ / 195)
+center: [71.56056117 22.71487299]"
+196," Arunachal Pradesh (IN-AR / 196)
+center: [94.64917505 28.04735694]"
+197," Mizoram (IN-MZ / 197)
+center: [92.81586598 23.28848079]"
+198," Tripura (IN-TR / 198)
+center: [91.72786315 23.7565557 ]"
+199," Tomsk (RU-TOM / 199)
+center: [82.1390468 58.4970858]"
+200," Republic of Adygea (RU-AD / 200)
+center: [39.97501295 44.5647994 ]"
+201," Karachay-Cherkess Republic (RU-KC / 201)
+center: [41.74300052 43.75798699]"
+202," Republic of Ingushetia (RU-IN / 202)
+center: [44.87031115 43.17898146]"
+203," Kabardino-Balkaria (RU-KB / 203)
+center: [43.38804584 43.48384044]"
+204," Republic of North Ossetia-Alania (RU-SE / 204)
+center: [44.26358157 43.09423165]"
+205," Stavropol Krai (RU-STA / 205)
+center: [43.35294793 44.95124204]"
+206," Chukotka Autonomous Okrug (RU-CHU / 206)
+center: [170.6596257   66.44395391]"
+207," Kaliningrad (RU-KGD / 207)
+center: [21.38509661 54.72183806]"
+208," Murmansk (RU-MUR / 208)
+center: [33.84947619 65.64806082]"
+209," Novgorod (RU-NGR / 209)
+center: [32.47876046 58.30619323]"
+210," Pskov (RU-PSK / 210)
+center: [29.23551072 57.22536675]"
+211," Leningrad (RU-LEN / 211)
+center: [31.708177   60.00838086]"
+212," Saint Petersburg (RU-SPE / 212)
+center: [30.19555545 59.90033239]"
+213," Bryansk (RU-BRY / 213)
+center: [33.40610343 52.90320384]"
+214," Smolensk (RU-SMO / 214)
+center: [32.99470442 54.94937416]"
+215," Karelia (RU-KR / 215)
+center: [35.72127242 65.10254722]"
+216," Arkhangelsk (RU-ARK / 216)
+center: [43.11603779 63.4181873 ]"
+217," Ivanovo (RU-IVA / 217)
+center: [41.69705944 57.01414863]"
+218," Vologda (RU-VLG / 218)
+center: [40.49542676 59.96729941]"
+219," Kostroma (RU-KOS / 219)
+center: [43.79582536 58.45882219]"
+220," Nizhny Novgorod (RU-NIZ / 220)
+center: [44.63454885 56.29240862]"
+221," Tver (RU-TVE / 221)
+center: [34.71378841 57.08948922]"
+222," Yaroslavl (RU-YAR / 222)
+center: [39.13400584 57.87196092]"
+223," Kaluga (RU-KLU / 223)
+center: [35.44516926 54.37068822]"
+224," Kursk (RU-KRS / 224)
+center: [36.07310671 51.67604705]"
+225," Lipetsk (RU-LIP / 225)
+center: [39.13227366 52.64571066]"
+226," Moscow (RU-MOW / 226)
+center: [37.66949028 55.66692785]"
+227," Moscow (RU-MOS / 227)
+center: [37.37978943 55.482417  ]"
+228," Oryol (RU-ORL / 228)
+center: [36.47464217 52.78318404]"
+229," Rostov (RU-ROS / 229)
+center: [41.30367362 47.74769148]"
+230," Tula (RU-TUL / 230)
+center: [37.56007529 53.89335239]"
+231," Volgograd (RU-VGG / 231)
+center: [44.15656801 49.61542642]"
+232," Belgorod (RU-BEL / 232)
+center: [37.47604704 50.66569913]"
+233," Krasnodar Krai (RU-KDA / 233)
+center: [39.46626995 45.25698188]"
+234," Republic of Mordovia (RU-MO / 234)
+center: [44.43635766 54.36989497]"
+235," Penza (RU-PNZ / 235)
+center: [44.64656129 53.19264771]"
+236," Ryazan (RU-RYA / 236)
+center: [40.61750282 54.32617282]"
+237," Tambov (RU-TAM / 237)
+center: [41.58306033 52.68569979]"
+238," Vladimir (RU-VLA / 238)
+center: [40.65713909 56.01265151]"
+239," Voronezh (RU-VOR / 239)
+center: [40.22005653 50.97111358]"
+240," Bashkortostan (RU-BA / 240)
+center: [56.50887972 54.27204696]"
+241," Chelyabinsk (RU-CHE / 241)
+center: [60.38557469 54.45193751]"
+242," Kurgan (RU-KGN / 242)
+center: [64.80421733 55.44842088]"
+243," Nenets Autonomous Okrug (RU-NEN / 243)
+center: [55.0194023  67.79886917]"
+244," Yamalo-Nenets Autonomous Okrug (RU-YAN / 244)
+center: [74.52891889 67.09615069]"
+245," Komi Republic (RU-KO / 245)
+center: [54.77955888 64.12679258]"
+246," Kirov (RU-KIR / 246)
+center: [49.82779146 58.68536535]"
+247," Mari El Republic (RU-ME / 247)
+center: [47.94230815 56.58053342]"
+248," Sverdlovsk (RU-SVE / 248)
+center: [61.5306074  58.59589717]"
+249," Udmurt Republic (RU-UD / 249)
+center: [52.78666828 57.17545591]"
+250," Astrakhan (RU-AST / 250)
+center: [47.26909098 47.16585915]"
+251," Chuvash Republic (RU-CU / 251)
+center: [47.09001795 55.49427413]"
+252," Republic of Kalmykia (RU-KL / 252)
+center: [45.315718   46.44372508]"
+253," Samara (RU-SAM / 253)
+center: [50.46461207 53.2803293 ]"
+254," Orenburg (RU-ORE / 254)
+center: [55.61271853 51.99324695]"
+255," Saratov (RU-SAR / 255)
+center: [46.79330494 51.58439527]"
+256," Republic of Tatarstan (RU-TA / 256)
+center: [50.91748976 55.3586807 ]"
+257," Ulyanovsk (RU-ULY / 257)
+center: [47.94915966 53.89906325]"
+258," Khanty-Mansi Autonomous Okrug (RU-KHM / 258)
+center: [70.29170525 61.86746345]"
+259," Omsk (RU-OMS / 259)
+center: [73.34684738 56.1111925 ]"
+260," Tyumen (RU-TYU / 260)
+center: [69.13097366 57.68259446]"
+261," Altai Republic (RU-ALT / 261)
+center: [82.6036313 52.6091784]"
+262," Altai Republic (RU-AL / 262)
+center: [87.02279334 50.72704739]"
+263," Kemerovo (RU-KEM / 263)
+center: [87.21749448 54.7923362 ]"
+264," Republic of Khakassia (RU-KK / 264)
+center: [89.85169559 53.36245774]"
+265," Novosibirsk (RU-NVS / 265)
+center: [79.7561584  55.28143093]"
+266," Chechen Republic (RU-CE / 266)
+center: [45.73613491 43.30272111]"
+267," Republic of Dagestan (RU-DA / 267)
+center: [46.86733549 43.01563659]"
+268," Irkutsk (RU-IRK / 268)
+center: [106.36055913  57.09360418]"
+269," Krasnoyarsk Krai (RU-KYA / 269)
+center: [95.95984658 67.01277062]"
+270," Tuva Republic (RU-TY / 270)
+center: [94.79053947 51.58074013]"
+271," Republic of Buryatia (RU-BU / 271)
+center: [109.47722499  53.54477503]"
+272," Amur (RU-AMU / 272)
+center: [127.72781182  53.39936104]"
+273," Zabaykalsky Krai (RU-ZAB / 273)
+center: [116.19900845  52.83890954]"
+274," Primorsky Krai (RU-PRI / 274)
+center: [134.70099698  45.16524421]"
+275," Sakha Republic (RU-SA / 275)
+center: [129.87282581  65.99442395]"
+276," Jewish (RU-YEV / 276)
+center: [132.26250913  48.52224841]"
+277," Khabarovsk Krai (RU-KHA / 277)
+center: [137.32074495  54.82123408]"
+278," Magadan (RU-MAG / 278)
+center: [153.9811426   62.71129728]"
+279," Sakhalin (RU-SAK / 279)
+center: [142.71888892  50.33223767]"
+280," Autonomous Republic of Crimea (UA-43 / 280)
+center: [34.36565184 45.32880192]"
+281," Perm Krai (RU-PER / 281)
+center: [56.22547206 59.11543015]"
+282," Kamchatka Krai (RU-KAM / 282)
+center: [162.98580181  58.94162977]"
+283," Sevastopol (UA-40 / 283)
+center: [33.63952109 44.58012051]"
+284," Northern Cape (ZA-NC / 284)
+center: [ 21.40177597 -29.44801578]"
+285," Western Cape (ZA-WC / 285)
+center: [ 20.60275758 -33.00867007]"
+286," North West (ZA-NW / 286)
+center: [ 25.50710428 -26.26352481]"
+287," Free State (ZA-FS / 287)
+center: [ 26.86734915 -28.60312153]"
+288," Gauteng (ZA-GT / 288)
+center: [ 28.12083107 -26.10755252]"
+289," Mpumalanga (ZA-MP / 289)
+center: [ 30.28661501 -25.87711638]"
+290," Limpopo (ZA-LP / 290)
+center: [ 29.28030324 -23.78927872]"
+291," KwaZulu-Natal (ZA-NL / 291)
+center: [ 30.72131906 -28.72147428]"
+292," Eastern Cape (ZA-EC / 292)
+center: [ 26.4421207  -32.14755978]"
+293," Maharashtra (IN-MH / 293)
+center: [76.11577084 19.46112101]"

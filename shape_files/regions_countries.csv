@@ -1,0 +1,485 @@
+,0
+0,"Region: Zimbabwe (ZWE / 0)
+center: [ 29.8514412  -19.00420419]"
+1,"Region: Zambia (ZMB / 1)
+center: [ 27.77475946 -13.45824152]"
+2,"Region: Yemen (YEM / 2)
+center: [47.54064362 15.93601151]"
+3,"Region: Vietnam (VNM / 3)
+center: [106.30119061  16.6517016 ]"
+4,"Region: Venezuela (VEN / 4)
+center: [-66.18692821   7.11852676]"
+5,"Region: Vatican City (VAT / 5)
+center: [12.43387177 41.90174985]"
+6,"Region: Vanuatu (VUT / 6)
+center: [166.8497772 -15.2254962]"
+7,"Region: Uzbekistan (UZB / 7)
+center: [63.13226554 41.75724044]"
+8,"Region: Uruguay (URY / 8)
+center: [-56.01807053 -32.79951534]"
+9,"Region: Federated States of Micronesia (FSM / 9)
+center: [158.23250738   6.88584942]"
+10,"Region: Marshall Islands (MHL / 10)
+center: [171.18636348   7.10593698]"
+11,"Region: Northern Mariana Islands (MNP / 11)
+center: [145.7437138   15.18093848]"
+12,"Region: United States Virgin Islands (VIR / 12)
+center: [-64.77162868  17.74128302]"
+13,"Region: Guam (GUM / 13)
+center: [144.76791022  13.44165626]"
+14,"Region: American Samoa (ASM / 14)
+center: [-170.71802575  -14.30445997]"
+15,"Region: Puerto Rico (PRI / 15)
+center: [-66.48210184  18.23040976]"
+16,"Region: United States of America (USA / 16)
+center: [-99.14386283  39.5265402 ]"
+17,"Region: South Georgia and the South Sandwich Islands (SGS / 17)
+center: [-36.6890392  -54.36443842]"
+18,"Region: British Indian Ocean Territory (IOT / 18)
+center: [72.44541229 -7.33059751]"
+19,"Region: Saint Helena (SHN / 19)
+center: [ -5.71618657 -15.95890522]"
+20,"Region: Pitcairn Islands (PCN / 20)
+center: [-128.31704202  -24.36500535]"
+21,"Region: Anguilla (AIA / 21)
+center: [-63.06498927  18.2239595 ]"
+22,"Region: Falkland Islands (FLK / 22)
+center: [-58.76051011 -51.74478573]"
+23,"Region: Cayman Islands (CYM / 23)
+center: [-81.28502392  19.32087382]"
+24,"Region: Bermuda (BMU / 24)
+center: [-64.7545589   32.31367802]"
+25,"Region: British Virgin Islands (VGB / 25)
+center: [-64.62140718  18.42299565]"
+26,"Region: Turks and Caicos Islands (TCA / 26)
+center: [-71.74140364  21.81169416]"
+27,"Region: Montserrat (MSR / 27)
+center: [-62.18518546  16.73941406]"
+28,"Region: Jersey (JEY / 28)
+center: [-2.12689938 49.21837377]"
+29,"Region: Guernsey (GGY / 29)
+center: [-2.57239064 49.46809761]"
+30,"Region: Isle of Man (IMN / 30)
+center: [-4.53873952 54.22418911]"
+31,"Region: United Kingdom (GBR / 31)
+center: [-2.50688775 53.93779797]"
+32,"Region: United Arab Emirates (ARE / 32)
+center: [54.30549346 23.90240885]"
+33,"Region: Ukraine (UKR / 33)
+center: [31.25272826 49.15968329]"
+34,"Region: Uganda (UGA / 34)
+center: [32.36907971  1.27469299]"
+35,"Region: Turkmenistan (TKM / 35)
+center: [59.37250369 39.11558191]"
+36,"Region: Turkey (TUR / 36)
+center: [35.42202579 38.99070602]"
+37,"Region: Tunisia (TUN / 37)
+center: [ 9.54780538 34.12021576]"
+38,"Region: Trinidad and Tobago (TTO / 38)
+center: [-61.29302914  10.42109359]"
+39,"Region: Tonga (TON / 39)
+center: [-175.2171255   -21.16662063]"
+40,"Region: Togo (TGO / 40)
+center: [0.96232845 8.52531356]"
+41,"Region: East Timor (TLS / 41)
+center: [125.92295251  -8.80978673]"
+42,"Region: Thailand (THA / 42)
+center: [101.00644234  15.1341592 ]"
+43,"Region: Tanzania (TZA / 43)
+center: [34.79814718 -6.27642123]"
+44,"Region: Tajikistan (TJK / 44)
+center: [71.01409752 38.52863583]"
+45,"Region: Taiwan (TWN / 45)
+center: [120.96208086  23.75185555]"
+46,"Region: Syria (SYR / 46)
+center: [38.50462453 35.02320992]"
+47,"Region: Switzerland (CHE / 47)
+center: [ 8.20867471 46.79785878]"
+48,"Region: Sweden (SWE / 48)
+center: [16.73499882 62.82517011]"
+49,"Region: Eswatini (SWZ / 49)
+center: [ 31.4819369  -26.55843045]"
+50,"Region: Suriname (SUR / 50)
+center: [-55.9123457    4.13055413]"
+51,"Region: South Sudan (SSD / 51)
+center: [30.24790002  7.30877945]"
+52,"Region: Sudan (SDN / 52)
+center: [29.94046812 15.99035669]"
+53,"Region: Sri Lanka (LKA / 53)
+center: [80.70304734  7.60857536]"
+54,"Region: Spain (ESP / 54)
+center: [-3.56336525 40.39977281]"
+55,"Region: South Korea (KOR / 55)
+center: [127.87086099  36.46068804]"
+56,"Region: South Africa (ZAF / 56)
+center: [ 25.08068665 -28.99579436]"
+57,"Region: Somalia (SOM / 57)
+center: [45.70714487  4.75062876]"
+58,"Region: Somaliland (-99 / 58)
+center: [46.25198395  9.73345496]"
+59,"Region: Solomon Islands (SLB / 59)
+center: [160.16894867  -9.6244223 ]"
+60,"Region: Slovakia (SVK / 60)
+center: [19.47905218 48.70547528]"
+61,"Region: Slovenia (SVN / 61)
+center: [14.80444238 46.11554772]"
+62,"Region: Singapore (SGP / 62)
+center: [103.81725592   1.35876087]"
+63,"Region: Sierra Leone (SLE / 63)
+center: [-11.78508346   8.57199006]"
+64,"Region: Seychelles (SYC / 64)
+center: [55.47603279 -4.66099094]"
+65,"Region: Serbia (SRB / 65)
+center: [20.78958334 44.2215032 ]"
+66,"Region: Senegal (SEN / 66)
+center: [-14.4734924   14.36624173]"
+67,"Region: Saudi Arabia (SAU / 67)
+center: [44.53894059 24.12469218]"
+68,"Region: São Tomé and Príncipe (STP / 68)
+center: [6.60659242 0.23811498]"
+69,"Region: San Marino (SMR / 69)
+center: [12.45922334 43.94186747]"
+70,"Region: Samoa (WSM / 70)
+center: [-172.43743812  -13.63077028]"
+71,"Region: Saint Vincent and the Grenadines (VCT / 71)
+center: [-61.1957604   13.25411446]"
+72,"Region: Saint Lucia (LCA / 72)
+center: [-60.96969923  13.89479481]"
+73,"Region: Saint Kitts and Nevis (KNA / 73)
+center: [-62.74759991  17.32688326]"
+74,"Region: Rwanda (RWA / 74)
+center: [29.91988515 -1.99033832]"
+75,"Region: Russia (RUS / 75)
+center: [99.06237256 61.66149298]"
+76,"Region: Romania (ROU / 76)
+center: [24.97293039 45.85243127]"
+77,"Region: Qatar (QAT / 77)
+center: [51.18479632 25.30601188]"
+78,"Region: Portugal (PRT / 78)
+center: [-7.97761346 39.67740257]"
+79,"Region: Poland (POL / 79)
+center: [19.39012835 52.12759564]"
+80,"Region: Philippines (PHL / 80)
+center: [121.41553102  15.95690264]"
+81,"Region: Peru (PER / 81)
+center: [-74.38242685  -9.15280381]"
+82,"Region: Paraguay (PRY / 82)
+center: [-58.40013703 -23.22823913]"
+83,"Region: Papua New Guinea (PNG / 83)
+center: [144.24411251  -6.60560776]"
+84,"Region: Panama (PAN / 84)
+center: [-80.11157027   8.5243484 ]"
+85,"Region: Palau (PLW / 85)
+center: [134.58047966   7.51295578]"
+86,"Region: Pakistan (PAK / 86)
+center: [69.33957937 29.9497515 ]"
+87,"Region: Oman (OMN / 87)
+center: [56.08535577 20.57538168]"
+88,"Region: Norway (-99 / 88)
+center: [13.9084218 64.2378254]"
+89,"Region: North Korea (PRK / 89)
+center: [127.19333112  40.15372171]"
+90,"Region: Nigeria (NGA / 90)
+center: [8.08960293 9.59510497]"
+91,"Region: Niger (NER / 91)
+center: [ 9.38545882 17.41912493]"
+92,"Region: Nicaragua (NIC / 92)
+center: [-85.0305297   12.84709429]"
+93,"Region: New Zealand (NZL / 93)
+center: [170.52834778 -43.97341234]"
+94,"Region: Niue (NIU / 94)
+center: [-169.86994682  -19.04945708]"
+95,"Region: Cook Islands (COK / 95)
+center: [-159.78724219  -21.21927288]"
+96,"Region: Netherlands (NLD / 96)
+center: [ 5.64213378 52.28215279]"
+97,"Region: Aruba (ABW / 97)
+center: [-69.98267711  12.52088038]"
+98,"Region: Curaçao (CUW / 98)
+center: [-68.97119369  12.19551675]"
+99,"Region: Nepal (NPL / 99)
+center: [83.9158264  28.24891365]"
+100,"Region: Nauru (NRU / 100)
+center: [166.93256823  -0.51912639]"
+101,"Region: Namibia (NAM / 101)
+center: [ 17.20963567 -22.13032568]"
+102,"Region: Mozambique (MOZ / 102)
+center: [ 35.53367543 -17.27381643]"
+103,"Region: Morocco (MAR / 103)
+center: [-8.45615795 29.83762955]"
+104,"Region: Western Sahara (ESH / 104)
+center: [-12.21982755  24.22956739]"
+105,"Region: Montenegro (MNE / 105)
+center: [19.23883939 42.78890259]"
+106,"Region: Mongolia (MNG / 106)
+center: [103.05299765  46.82681544]"
+107,"Region: Moldova (MDA / 107)
+center: [28.45673372 47.19498804]"
+108,"Region: Monaco (MCO / 108)
+center: [ 7.40627677 43.75274627]"
+109,"Region: Mexico (MEX / 109)
+center: [-102.50514419   23.94102022]"
+110,"Region: Mauritius (MUS / 110)
+center: [ 57.57120551 -20.27768704]"
+111,"Region: Mauritania (MRT / 111)
+center: [-10.34665958  20.25746461]"
+112,"Region: Malta (MLT / 112)
+center: [14.44326901 35.89002912]"
+113,"Region: Mali (MLI / 113)
+center: [-3.54269065 17.34581581]"
+114,"Region: Maldives (MDV / 114)
+center: [73.50333479  4.19653216]"
+115,"Region: Malaysia (MYS / 115)
+center: [114.72377226   3.61525237]"
+116,"Region: Malawi (MWI / 116)
+center: [ 34.28879833 -13.21986925]"
+117,"Region: Madagascar (MDG / 117)
+center: [ 46.70305379 -19.37532674]"
+118,"Region: North Macedonia (MKD / 118)
+center: [21.68211346 41.59530893]"
+119,"Region: Luxembourg (LUX / 119)
+center: [ 6.07182201 49.76725361]"
+120,"Region: Lithuania (LTU / 120)
+center: [23.89188896 55.32596034]"
+121,"Region: Liechtenstein (LIE / 121)
+center: [ 9.53574312 47.13665835]"
+122,"Region: Libya (LBY / 122)
+center: [18.00866169 27.03094495]"
+123,"Region: Liberia (LBR / 123)
+center: [-9.32207573  6.45278492]"
+124,"Region: Lesotho (LSO / 124)
+center: [ 28.22723131 -29.58003188]"
+125,"Region: Lebanon (LBN / 125)
+center: [35.88016071 33.92306631]"
+126,"Region: Latvia (LVA / 126)
+center: [24.91235983 56.85085163]"
+127,"Region: Laos (LAO / 127)
+center: [103.73772412  18.50217433]"
+128,"Region: Kyrgyzstan (KGZ / 128)
+center: [74.54165513 41.46221943]"
+129,"Region: Kuwait (KWT / 129)
+center: [47.56180011 29.31666229]"
+130,"Region: Kosovo (-99 / 130)
+center: [20.87249811 42.57078707]"
+131,"Region: Kiribati (KIR / 131)
+center: [-157.37418629    1.85444795]"
+132,"Region: Kenya (KEN / 132)
+center: [37.79521227  0.60048341]"
+133,"Region: Kazakhstan (KAZ / 133)
+center: [67.29307467 48.15717345]"
+134,"Region: Jordan (JOR / 134)
+center: [36.77136104 31.24579091]"
+135,"Region: Japan (JPN / 135)
+center: [137.98543797  36.65005253]"
+136,"Region: Jamaica (JAM / 136)
+center: [-77.31482593  18.15694878]"
+137,"Region: Italy (ITA / 137)
+center: [12.14876278 43.52936379]"
+138,"Region: Israel (ISR / 138)
+center: [34.99533998 31.44260691]"
+139,"Region: Palestine (PSE / 139)
+center: [35.24782508 31.94799759]"
+140,"Region: Ireland (IRL / 140)
+center: [-8.13451684 53.17404076]"
+141,"Region: Iraq (IRQ / 141)
+center: [43.74353149 33.03970582]"
+142,"Region: Iran (IRN / 142)
+center: [54.27280622 32.57971265]"
+143,"Region: Indonesia (IDN / 143)
+center: [114.01420942  -0.19085395]"
+144,"Region: India (IND / 144)
+center: [79.585565  22.9090946]"
+145,"Region: Iceland (ISL / 145)
+center: [-18.57396167  64.99575386]"
+146,"Region: Hungary (HUN / 146)
+center: [19.39559116 47.16277506]"
+147,"Region: Honduras (HND / 147)
+center: [-86.61582456  14.82371533]"
+148,"Region: Haiti (HTI / 148)
+center: [-72.67555568  18.92830082]"
+149,"Region: Guyana (GUY / 149)
+center: [-58.98202459   4.79378034]"
+150,"Region: Guinea-Bissau (GNB / 150)
+center: [-14.92365323  12.0639568 ]"
+151,"Region: Guinea (GIN / 151)
+center: [-10.94066612  10.43621593]"
+152,"Region: Guatemala (GTM / 152)
+center: [-90.36482009  15.69403663]"
+153,"Region: Grenada (GRD / 153)
+center: [-61.68220189  12.11725044]"
+154,"Region: Greece (GRC / 154)
+center: [22.58465259 39.479079  ]"
+155,"Region: Ghana (GHA / 155)
+center: [-1.21676566  7.95345644]"
+156,"Region: Germany (DEU / 156)
+center: [10.37213776 51.08764058]"
+157,"Region: Georgia (GEO / 157)
+center: [43.50780252 42.16855755]"
+158,"Region: The Gambia (GMB / 158)
+center: [-15.39601295  13.44965244]"
+159,"Region: Gabon (GAB / 159)
+center: [11.7886287  -0.58660025]"
+160,"Region: France (-99 / 160)
+center: [ 2.45276214 46.6201147 ]"
+161,"Region: Saint Pierre and Miquelon (SPM / 161)
+center: [-56.32695226  46.94614016]"
+162,"Region: Wallis and Futuna (WLF / 162)
+center: [-178.12955393  -14.28573552]"
+163,"Region: Saint Martin (MAF / 163)
+center: [-63.05972851  18.08888611]"
+164,"Region: Saint Barthélemy (BLM / 164)
+center: [-62.84067779  17.89880451]"
+165,"Region: French Polynesia (PYF / 165)
+center: [-149.42024636  -17.66331046]"
+166,"Region: New Caledonia (NCL / 166)
+center: [165.4866976  -21.32517143]"
+167,"Region: French Southern and Antarctic Lands (ATF / 167)
+center: [ 69.49547044 -49.3042295 ]"
+168,"Region: Åland (ALA / 168)
+center: [19.94400982 60.23133494]"
+169,"Region: Finland (FIN / 169)
+center: [26.28354804 64.50497064]"
+170,"Region: Fiji (FJI / 170)
+center: [177.97282711 -17.82292078]"
+171,"Region: Ethiopia (ETH / 171)
+center: [39.60080098  8.62278679]"
+172,"Region: Estonia (EST / 172)
+center: [25.832165   58.68592077]"
+173,"Region: Eritrea (ERI / 173)
+center: [38.83795856 15.35950669]"
+174,"Region: Equatorial Guinea (GNQ / 174)
+center: [10.47048259  1.56520049]"
+175,"Region: El Salvador (SLV / 175)
+center: [-88.87164469  13.73943744]"
+176,"Region: Egypt (EGY / 176)
+center: [29.86190099 26.49593311]"
+177,"Region: Ecuador (ECU / 177)
+center: [-78.38975666  -1.44537129]"
+178,"Region: Dominican Republic (DOM / 178)
+center: [-70.50568896  18.89433082]"
+179,"Region: Dominica (DMA / 179)
+center: [-61.357726   15.4394702]"
+180,"Region: Djibouti (DJI / 180)
+center: [42.5606754  11.74871806]"
+181,"Region: Greenland (GRL / 181)
+center: [-41.35581221  74.71759825]"
+182,"Region: Faroe Islands (FRO / 182)
+center: [-6.8847479  62.17017602]"
+183,"Region: Denmark (DNK / 183)
+center: [ 9.35599632 56.24045732]"
+184,"Region: Czech Republic (CZE / 184)
+center: [15.31240163 49.73341233]"
+185,"Region: Turkish Republic of Northern Cyprus (-99 / 185)
+center: [33.5684813  35.26277486]"
+186,"Region: Cyprus (CYP / 186)
+center: [33.0060022  34.91667211]"
+187,"Region: Cuba (CUB / 187)
+center: [-78.94339746  21.61424023]"
+188,"Region: Croatia (HRV / 188)
+center: [16.42389696 45.15944805]"
+189,"Region: Ivory Coast (CIV / 189)
+center: [-5.56970883  7.6289407 ]"
+190,"Region: Costa Rica (CRI / 190)
+center: [-84.19208768   9.97634464]"
+191,"Region: Democratic Republic of the Congo (COD / 191)
+center: [23.64396107 -2.87746289]"
+192,"Region: Republic of the Congo (COG / 192)
+center: [15.21965762 -0.83787463]"
+193,"Region: Comoros (COM / 193)
+center: [ 43.33914435 -11.65437816]"
+194,"Region: Colombia (COL / 194)
+center: [-73.08070655   3.91394921]"
+195,"Region: People's Republic of China (CHN / 195)
+center: [103.79740634  36.61687112]"
+196,"Region: Macau (MAC / 196)
+center: [113.50932116  22.22311688]"
+197,"Region: Hong Kong (HKG / 197)
+center: [114.13918765  22.43917627]"
+198,"Region: Chile (CHL / 198)
+center: [-71.31112819 -35.74807517]"
+199,"Region: Chad (TCD / 199)
+center: [18.64492513 15.33333758]"
+200,"Region: Central African Republic (CAF / 200)
+center: [20.46826831  6.56823297]"
+201,"Region: Cape Verde (CPV / 201)
+center: [-23.6371491   15.08240468]"
+202,"Region: Canada (CAN / 202)
+center: [-102.36576644   57.93467961]"
+203,"Region: Cameroon (CMR / 203)
+center: [12.73964156  5.69109849]"
+204,"Region: Cambodia (KHM / 204)
+center: [104.90793942  12.7209729 ]"
+205,"Region: Myanmar (MMR / 205)
+center: [96.48864617 21.221488  ]"
+206,"Region: Burundi (BDI / 206)
+center: [29.87512156 -3.35939666]"
+207,"Region: Burkina Faso (BFA / 207)
+center: [-1.75456601 12.26953846]"
+208,"Region: Bulgaria (BGR / 208)
+center: [25.21552909 42.76890318]"
+209,"Region: Brunei (BRN / 209)
+center: [114.59195822   4.49048994]"
+210,"Region: Brazil (BRA / 210)
+center: [-53.11693615 -10.84047608]"
+211,"Region: Botswana (BWA / 211)
+center: [ 23.79853368 -22.18403213]"
+212,"Region: Bosnia and Herzegovina (BIH / 212)
+center: [17.76876733 44.17450125]"
+213,"Region: Bolivia (BOL / 213)
+center: [-64.68538645 -16.70814787]"
+214,"Region: Bhutan (BTN / 214)
+center: [90.40188155 27.41106589]"
+215,"Region: Benin (BEN / 215)
+center: [2.32785254 9.6417597 ]"
+216,"Region: Belize (BLZ / 216)
+center: [-88.71846155  17.19473112]"
+217,"Region: Belgium (BEL / 217)
+center: [ 4.63873576 50.63958964]"
+218,"Region: Belarus (BLR / 218)
+center: [28.03209307 53.53131377]"
+219,"Region: Barbados (BRB / 219)
+center: [-59.559797    13.18145428]"
+220,"Region: Bangladesh (BGD / 220)
+center: [90.22405508 23.89751969]"
+221,"Region: Bahrain (BHR / 221)
+center: [50.54196932 26.04205135]"
+222,"Region: The Bahamas (BHS / 222)
+center: [-78.03780359  24.7013991 ]"
+223,"Region: Azerbaijan (AZE / 223)
+center: [47.66493967 40.34399711]"
+224,"Region: Austria (AUT / 224)
+center: [14.1264761  47.58549439]"
+225,"Region: Australia (AUS / 225)
+center: [134.35514544 -25.57318043]"
+226,"Region: Australian Indian Ocean Territories (-99 / 226)
+center: [105.66238708 -10.49269337]"
+227,"Region: Heard Island and McDonald Islands (HMD / 227)
+center: [ 73.5205171  -53.08724656]"
+228,"Region: Norfolk Island (NFK / 228)
+center: [167.94921678 -29.0514609 ]"
+229,"Region: Ashmore and Cartier Islands (-99 / 229)
+center: [123.58383789 -12.42993164]"
+230,"Region: Armenia (ARM / 230)
+center: [44.92914119 40.28906214]"
+231,"Region: Argentina (ARG / 231)
+center: [-65.15610281 -35.17996177]"
+232,"Region: Antigua and Barbuda (ATG / 232)
+center: [-61.78996503  17.07777802]"
+233,"Region: Angola (AGO / 233)
+center: [ 17.56443992 -12.33194931]"
+234,"Region: Andorra (AND / 234)
+center: [ 1.56054378 42.54229102]"
+235,"Region: Algeria (DZA / 235)
+center: [ 2.61732301 28.15893849]"
+236,"Region: Albania (ALB / 236)
+center: [20.04983396 41.14244989]"
+237,"Region: Afghanistan (AFG / 237)
+center: [66.00473366 33.83523073]"
+238,"Region: Siachen Glacier (-99 / 238)
+center: [77.18011865 35.39236325]"
+239,"Region: Antarctica (ATA / 239)
+center: [ 20.80425935 -80.56015146]"
+240,"Region: Sint Maarten (SXM / 240)
+center: [-63.05713363  18.05081728]"
+241,"Region: Tuvalu (TUV / 241)
+center: [179.20556525  -8.50345126]"

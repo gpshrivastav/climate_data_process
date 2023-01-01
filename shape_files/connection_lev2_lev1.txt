@@ -1,0 +1,32 @@
+#Numbers        # regions                               #SOVEREIGNT regions
+#(level 2)      # Level 2                               # countries level 1
+    
+254             Antigua                                 Antigua and Barbuda
+91              Autonomous Region of Bougainville       Papua New Guinea
+85              Azores                                  Portugal
+255             Barbuda                                 Antigua and Barbuda
+238             Brussels Capital Region                 Belgium
+109             Caribbean Netherlands                   Netherlands
+247             Christmas Island                        Australia
+248             Cocos                                   Australia
+34              England                                 United Kingdom
+231             Federation of Bosnia and Herzegovina    Bosnia and Herzegovina
+236             Flemish Brabant                         Belgium
+178             French Guiana                           France
+151             Gaza Strip                              Israel
+177             Guadeloupe                              France
+97              Jan Mayen                               Norway
+83              Madeira                                 Portugal
+176             Martinique                              France
+174             Mayotte                                 France
+33              Northern Ireland                        United Kingdom
+230             Republika Srpska                        Bosnia and Herzegovina
+175             Réunion                                 France
+32              Scotland                                United Kingdom
+98              Svalbard                                Norway
+105             Tokelau                                 New Zealand
+70              Vojvodina                               Republic of Serbia
+31              Wales                                   United Kingdom
+237             Walloon Brabant                         Belgium
+152             West Bank                               Israel
+46              Zanzibar                                United Republic of Tanzania

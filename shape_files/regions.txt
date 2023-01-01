@@ -1,0 +1,53 @@
+=================================================
+SUBREGIONS in shape files.. total 24 at level 2
+------------------------------------------------
+1. Antarctica
+2. Australia and New Zealand
+3. Caribbean
+4. Central America
+5. Central Asia
+6. Eastern Africa
+7. Eastern Asia
+8. Eastern Europe
+9. Melanesia
+10. Micronesia
+11. Middle Africa
+12. Northern Africa
+13. Northern America
+14. Northern Europe
+15. Polynesia
+16. Seven seas (open ocean)
+17. South America
+18. South-Eastern Asia
+19. Southern Africa
+20. Southern Asia
+21. Southern Europe
+22. Western Africa
+23. Western Asia
+24. Western Europe
+-------------------------------------------
+
+=================================================
+REGION_WB in shape files.. total 8 at level 2
+------------------------------------------------
+1. Antarctica
+2. East Asia & Pacific
+3. Europe & Central Asia
+4. Latin America & Caribbean
+5. Middle East & North Africa
+6. North America
+7. South Asia
+8. Sub-Saharan Africa
+--------------------------------------------------
+
+=================================================
+CONTINENT in shape files.. total 8 at level 2
+------------------------------------------------
+1. Africa
+2. Antarctica
+3. Asia
+4. Europe
+5. North America
+6. Oceania
+7. Seven seas (open ocean)
+8. South America

@@ -1,0 +1,6 @@
+#difference in the list of countries and map-units.
+
+
+'Antigua', 'Autonomous Region of Bougainville', 'Azores','Barbuda','Brussels Capital Region','Caribbean Netherlands','Christmas Island','Cocos','England',
+'Federation of Bosnia and Herzegovina','Flemish Brabant','French Guiana','Gaza Strip','Guadeloupe','Jan Mayen','Madeira','Martinique','Mayotte','Northern Ireland',
+'Republika Srpska','Réunion','Scotland','Svalbard','Tokelau','Vojvodina','Wales','Walloon Brabant','West Bank','Zanzibar'

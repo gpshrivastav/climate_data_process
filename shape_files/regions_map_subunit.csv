@@ -1,0 +1,617 @@
+,0
+0," Zimbabwe (ZWE / 0)
+center: [ 29.8514412  -19.00420419]"
+1," Zambia (ZMB / 1)
+center: [ 27.77475946 -13.45824152]"
+2," Yemen (YEM / 2)
+center: [47.54064362 15.93601151]"
+3," Socotra Archipelago (-99 / 3)
+center: [53.86769103 12.51723045]"
+4," Vietnam (VNM / 4)
+center: [106.30119061  16.6517016 ]"
+5," Venezuela (VEN / 5)
+center: [-66.18692821   7.11852676]"
+6," Vatican City (VAT / 6)
+center: [12.43387177 41.90174985]"
+7," Vanuatu (VUT / 7)
+center: [166.8497772 -15.2254962]"
+8," Uzbekistan (UZB / 8)
+center: [63.13226554 41.75724044]"
+9," Uruguay (URY / 9)
+center: [-56.01807053 -32.79951534]"
+10," Federated States of Micronesia (FSM / 10)
+center: [158.23250738   6.88584942]"
+11," Marshall Islands (MHL / 11)
+center: [171.18636348   7.10593698]"
+12," Northern Mariana Islands (MNP / 12)
+center: [145.7437138   15.18093848]"
+13," United States Virgin Islands (VIR / 13)
+center: [-64.77162868  17.74128302]"
+14," Guam (GUM / 14)
+center: [144.76791022  13.44165626]"
+15," American Samoa (ASM / 15)
+center: [-170.71802575  -14.30445997]"
+16," Puerto Rico (PRI / 16)
+center: [-66.48210184  18.23040976]"
+17," Alaska (-99 / 17)
+center: [-152.72908502   64.57880386]"
+18," Hawaii (-99 / 18)
+center: [-155.50958211   19.61205714]"
+19," United States of America (-99 / 19)
+center: [-99.14386283  39.5265402 ]"
+20," South Sandwich Islands (-99 / 20)
+center: [-26.34064282 -58.4270271 ]"
+21," South Georgia (-99 / 21)
+center: [-36.6890392  -54.36443842]"
+22," Diego Garcia Navy Airport (-99 / 22)
+center: [72.44541229 -7.33059751]"
+23," Saint Helena (SHN / 23)
+center: [ -5.71618657 -15.95890522]"
+24," Ascension (-99 / 24)
+center: [-14.36492017  -7.93375202]"
+25," Pitcairn Islands (PCN / 25)
+center: [-128.31704202  -24.36500535]"
+26," Anguilla (AIA / 26)
+center: [-63.06498927  18.2239595 ]"
+27," Falkland Islands (FLK / 27)
+center: [-58.76051011 -51.74478573]"
+28," Cayman Islands (CYM / 28)
+center: [-81.28502392  19.32087382]"
+29," Bermuda (BMU / 29)
+center: [-64.7545589   32.31367802]"
+30," British Virgin Islands (VGB / 30)
+center: [-64.62140718  18.42299565]"
+31," Turks and Caicos Islands (TCA / 31)
+center: [-71.74140364  21.81169416]"
+32," Montserrat (MSR / 32)
+center: [-62.18518546  16.73941406]"
+33," Jersey (JEY / 33)
+center: [-2.12689938 49.21837377]"
+34," Guernsey (GGY / 34)
+center: [-2.57239064 49.46809761]"
+35," Isle of Man (IMN / 35)
+center: [-4.53873952 54.22418911]"
+36," Wales (-99 / 36)
+center: [-3.73178686 52.30477561]"
+37," Scotland (-99 / 37)
+center: [-3.99792666 56.68483189]"
+38," Northern Ireland (-99 / 38)
+center: [-6.70336659 54.6122303 ]"
+39," England (-99 / 39)
+center: [-1.45981155 52.60400678]"
+40," United Arab Emirates (ARE / 40)
+center: [54.30549346 23.90240885]"
+41," Ukraine (UKR / 41)
+center: [31.25272826 49.15968329]"
+42," Uganda (UGA / 42)
+center: [32.36907971  1.27469299]"
+43," Turkmenistan (TKM / 43)
+center: [59.37250369 39.11558191]"
+44," Turkey (TUR / 44)
+center: [35.42202579 38.99070602]"
+45," Tunisia (TUN / 45)
+center: [ 9.54780538 34.12021576]"
+46," Tobago (-99 / 46)
+center: [-60.66740616  11.2500866 ]"
+47," Trinidad (-99 / 47)
+center: [-61.29302914  10.42109359]"
+48," Tonga (TON / 48)
+center: [-175.2171255   -21.16662063]"
+49," Togo (TGO / 49)
+center: [0.96232845 8.52531356]"
+50," East Timor (-99 / 50)
+center: [125.92295251  -8.80978673]"
+51," Pante Makassar Subdistrict (-99 / 51)
+center: [124.25322063  -9.32337495]"
+52," Thailand (THA / 52)
+center: [101.00644234  15.1341592 ]"
+53," Zanzibar (-99 / 53)
+center: [39.35490416 -6.13563477]"
+54," Tanzania (TZA / 54)
+center: [34.79814718 -6.27642123]"
+55," Tajikistan (TJK / 55)
+center: [71.01409752 38.52863583]"
+56," Taiwan (TWN / 56)
+center: [120.96208086  23.75185555]"
+57," Syria (SYR / 57)
+center: [38.50462453 35.02320992]"
+58," Switzerland (CHE / 58)
+center: [ 8.20867471 46.79785878]"
+59," Sweden (SWE / 59)
+center: [16.73499882 62.82517011]"
+60," Eswatini (SWZ / 60)
+center: [ 31.4819369  -26.55843045]"
+61," Suriname (SUR / 61)
+center: [-55.9123457    4.13055413]"
+62," South Sudan (SSD / 62)
+center: [30.24790002  7.30877945]"
+63," Sudan (SDN / 63)
+center: [29.94046812 15.99035669]"
+64," Sri Lanka (LKA / 64)
+center: [80.70304734  7.60857536]"
+65," Balearic Islands (-99 / 65)
+center: [ 2.96446742 39.63099096]"
+66," Spain (-99 / 66)
+center: [-3.56336525 40.39977281]"
+67," Canary Islands (-99 / 67)
+center: [-16.54280575  28.28773844]"
+68," South Korea (KOR / 68)
+center: [127.87086099  36.46068804]"
+69," Ulleungdo (-99 / 69)
+center: [130.87266602  37.50381226]"
+70," Jeju Province (-99 / 70)
+center: [126.55680675  33.37814149]"
+71," South Africa (-99 / 71)
+center: [ 25.08068665 -28.99579436]"
+72," Prince Edward Islands (-99 / 72)
+center: [ 37.73759547 -46.89896676]"
+73," Somalia (SOM / 73)
+center: [45.70714487  4.75062876]"
+74," Somaliland (-99 / 74)
+center: [46.25198395  9.73345496]"
+75," Solomon Islands (SLB / 75)
+center: [160.16894867  -9.6244223 ]"
+76," Slovakia (SVK / 76)
+center: [19.47905218 48.70547528]"
+77," Slovenia (SVN / 77)
+center: [14.80444238 46.11554772]"
+78," Singapore (SGP / 78)
+center: [103.81725592   1.35876087]"
+79," Sierra Leone (SLE / 79)
+center: [-11.78508346   8.57199006]"
+80," Seychelles (SYC / 80)
+center: [55.47603279 -4.66099094]"
+81," Serbia (-99 / 81)
+center: [21.0662439  43.77409747]"
+82," Vojvodina (-99 / 82)
+center: [20.0588829  45.40316622]"
+83," Senegal (SEN / 83)
+center: [-14.4734924   14.36624173]"
+84," Saudi Arabia (SAU / 84)
+center: [44.53894059 24.12469218]"
+85," Príncipe (-99 / 85)
+center: [7.39541863 1.61733572]"
+86," São Tomé Island (-99 / 86)
+center: [6.60659242 0.23811498]"
+87," San Marino (SMR / 87)
+center: [12.45922334 43.94186747]"
+88," Samoa (WSM / 88)
+center: [-172.43743812  -13.63077028]"
+89," Saint Vincent and the Grenadines (VCT / 89)
+center: [-61.1957604   13.25411446]"
+90," Saint Lucia (LCA / 90)
+center: [-60.96969923  13.89479481]"
+91," Saint Kitts and Nevis (KNA / 91)
+center: [-62.74759991  17.32688326]"
+92," Rwanda (RWA / 92)
+center: [29.91988515 -1.99033832]"
+93," Russia (-99 / 93)
+center: [113.33246297  62.50732521]"
+94," Russia (-99 / 94)
+center: [44.98685198 58.45627024]"
+95," Kaliningrad Oblast (-99 / 95)
+center: [21.38511477 54.72183308]"
+96," Romania (ROU / 96)
+center: [24.97293039 45.85243127]"
+97," Qatar (QAT / 97)
+center: [51.18479632 25.30601188]"
+98," Madeira (-99 / 98)
+center: [-16.98573069  32.75252847]"
+99," Portugal (-99 / 99)
+center: [-7.97761346 39.67740257]"
+100," Azores (-99 / 100)
+center: [-25.50964666  37.79900884]"
+101," Poland (POL / 101)
+center: [19.39012835 52.12759564]"
+102," Philippines (PHL / 102)
+center: [121.41553102  15.95690264]"
+103," Peru (PER / 103)
+center: [-74.38242685  -9.15280381]"
+104," Paraguay (PRY / 104)
+center: [-58.40013703 -23.22823913]"
+105," Papua New Guinea (-99 / 105)
+center: [144.24411251  -6.60560776]"
+106," Autonomous Region of Bougainville (-99 / 106)
+center: [155.31450944  -6.22587631]"
+107," Panama (PAN / 107)
+center: [-80.11157027   8.5243484 ]"
+108," Palau (PLW / 108)
+center: [134.58047966   7.51295578]"
+109," Pakistan (PAK / 109)
+center: [69.33957937 29.9497515 ]"
+110," Oman (OMN / 110)
+center: [56.08535577 20.57538168]"
+111," Norway (-99 / 111)
+center: [13.9084218 64.2378254]"
+112," Jan Mayen (-99 / 112)
+center: [-8.42680551 71.02008472]"
+113," Svalbard (SJM / 113)
+center: [15.88458683 78.60164551]"
+114," North Korea (PRK / 114)
+center: [127.19333112  40.15372171]"
+115," Nigeria (NGA / 115)
+center: [8.08960293 9.59510497]"
+116," Niger (NER / 116)
+center: [ 9.38545882 17.41912493]"
+117," Nicaragua (NIC / 117)
+center: [-85.0305297   12.84709429]"
+118," South Island (-99 / 118)
+center: [170.52834778 -43.97341234]"
+119," North Island (-99 / 119)
+center: [175.73701383 -38.59197119]"
+120," New Zealand Subantarctic Islands (-99 / 120)
+center: [166.1157396  -50.70716583]"
+121," Chatham Islands (-99 / 121)
+center: [-176.51204002  -43.89132226]"
+122," Niue (NIU / 122)
+center: [-169.86994682  -19.04945708]"
+123," Tokelau (TKL / 123)
+center: [-172.48760153   -8.56500085]"
+124," Cook Islands (COK / 124)
+center: [-159.78724219  -21.21927288]"
+125," Netherlands (NLD / 125)
+center: [ 5.64213378 52.28215279]"
+126," Aruba (ABW / 126)
+center: [-69.98267711  12.52088038]"
+127," Caribbean Netherlands (BES / 127)
+center: [-68.27402059  12.18429165]"
+128," Curaçao (CUW / 128)
+center: [-68.97119369  12.19551675]"
+129," Nepal (NPL / 129)
+center: [83.9158264  28.24891365]"
+130," Nauru (NRU / 130)
+center: [166.93256823  -0.51912639]"
+131," Namibia (NAM / 131)
+center: [ 17.20963567 -22.13032568]"
+132," Mozambique (MOZ / 132)
+center: [ 35.53367543 -17.27381643]"
+133," Morocco (MAR / 133)
+center: [-8.45615795 29.83762955]"
+134," Western Sahara (ESH / 134)
+center: [-12.21982755  24.22956739]"
+135," Montenegro (MNE / 135)
+center: [19.23883939 42.78890259]"
+136," Mongolia (MNG / 136)
+center: [103.05299765  46.82681544]"
+137," Moldova (MDA / 137)
+center: [28.45673372 47.19498804]"
+138," Monaco (MCO / 138)
+center: [ 7.40627677 43.75274627]"
+139," Mexico (MEX / 139)
+center: [-102.50514419   23.94102022]"
+140," Mauritius (MUS / 140)
+center: [ 57.57120551 -20.27768704]"
+141," Mauritania (MRT / 141)
+center: [-10.34665958  20.25746461]"
+142," Malta (MLT / 142)
+center: [14.44326901 35.89002912]"
+143," Mali (MLI / 143)
+center: [-3.54269065 17.34581581]"
+144," Maldives (MDV / 144)
+center: [73.50333479  4.19653216]"
+145," Malaysia (MYS / 145)
+center: [114.72377226   3.61525237]"
+146," Malawi (MWI / 146)
+center: [ 34.28879833 -13.21986925]"
+147," Madagascar (MDG / 147)
+center: [ 46.70305379 -19.37532674]"
+148," North Macedonia (MKD / 148)
+center: [21.68211346 41.59530893]"
+149," Luxembourg (LUX / 149)
+center: [ 6.07182201 49.76725361]"
+150," Lithuania (LTU / 150)
+center: [23.89188896 55.32596034]"
+151," Liechtenstein (LIE / 151)
+center: [ 9.53574312 47.13665835]"
+152," Libya (LBY / 152)
+center: [18.00866169 27.03094495]"
+153," Liberia (LBR / 153)
+center: [-9.32207573  6.45278492]"
+154," Lesotho (LSO / 154)
+center: [ 28.22723131 -29.58003188]"
+155," Lebanon (LBN / 155)
+center: [35.88016071 33.92306631]"
+156," Latvia (LVA / 156)
+center: [24.91235983 56.85085163]"
+157," Laos (LAO / 157)
+center: [103.73772412  18.50217433]"
+158," Kyrgyzstan (KGZ / 158)
+center: [74.54165513 41.46221943]"
+159," Kuwait (KWT / 159)
+center: [47.56180011 29.31666229]"
+160," Kosovo (-99 / 160)
+center: [20.87249811 42.57078707]"
+161," Kiribati (KIR / 161)
+center: [-157.37418629    1.85444795]"
+162," Kenya (KEN / 162)
+center: [37.79521227  0.60048341]"
+163," Kazakhstan (KAZ / 163)
+center: [67.29307467 48.15717345]"
+164," Jordan (JOR / 164)
+center: [36.77136104 31.24579091]"
+165," Japan (JPN / 165)
+center: [138.39680523  38.03966635]"
+166," Ogasawara Islands (-99 / 166)
+center: [142.15911366  26.67234822]"
+167," Hokkaido Prefecture (-99 / 167)
+center: [142.5802094   43.37826458]"
+168," Kyushu (-99 / 168)
+center: [130.87531659  32.64082413]"
+169," Shikoku (-99 / 169)
+center: [133.47143151  33.65498239]"
+170," Honshu (-99 / 170)
+center: [137.98543797  36.65005253]"
+171," Ryukyu Islands (-99 / 171)
+center: [127.96534539  26.50147162]"
+172," Izu Islands (-99 / 172)
+center: [139.81599843  33.09046903]"
+173," Jamaica (JAM / 173)
+center: [-77.31482593  18.15694878]"
+174," Italy (-99 / 174)
+center: [12.14876278 43.52936379]"
+175," Pantelleria Island (-99 / 175)
+center: [11.99074007 36.79308729]"
+176," Sicily (-99 / 176)
+center: [14.15539713 37.59291214]"
+177," Sardinia (-99 / 177)
+center: [ 9.03761189 40.09501312]"
+178," Israel (ISR / 178)
+center: [34.99533998 31.44260691]"
+179," Gaza Strip (-99 / 179)
+center: [34.34757503 31.39150041]"
+180," West Bank (-99 / 180)
+center: [35.24782508 31.94799759]"
+181," Ireland (IRL / 181)
+center: [-8.13451684 53.17404076]"
+182," Iraq (IRQ / 182)
+center: [43.74353149 33.03970582]"
+183," Iran (IRN / 183)
+center: [54.27280622 32.57971265]"
+184," Indonesia (IDN / 184)
+center: [114.01420942  -0.19085395]"
+185," India (-99 / 185)
+center: [79.585565  22.9090946]"
+186," Nicobar Islands (-99 / 186)
+center: [93.80045671  7.02425028]"
+187," Andaman Islands (-99 / 187)
+center: [92.82241763 12.53593202]"
+188," Lakshadweep (-99 / 188)
+center: [73.05573647  8.27523414]"
+189," Iceland (ISL / 189)
+center: [-18.57396167  64.99575386]"
+190," Hungary (HUN / 190)
+center: [19.39559116 47.16277506]"
+191," Honduras (HND / 191)
+center: [-86.61582456  14.82371533]"
+192," Haiti (HTI / 192)
+center: [-72.67555568  18.92830082]"
+193," Guyana (GUY / 193)
+center: [-58.98202459   4.79378034]"
+194," Guinea-Bissau (GNB / 194)
+center: [-14.92365323  12.0639568 ]"
+195," Guinea (GIN / 195)
+center: [-10.94066612  10.43621593]"
+196," Guatemala (GTM / 196)
+center: [-90.36482009  15.69403663]"
+197," Grenada (GRD / 197)
+center: [-61.68220189  12.11725044]"
+198," Greece (GRC / 198)
+center: [22.58465259 39.479079  ]"
+199," Ghana (GHA / 199)
+center: [-1.21676566  7.95345644]"
+200," Germany (DEU / 200)
+center: [10.37213776 51.08764058]"
+201," Georgia (-99 / 201)
+center: [43.50780252 42.16855755]"
+202," The Gambia (GMB / 202)
+center: [-15.39601295  13.44965244]"
+203," Gabon (GAB / 203)
+center: [11.7886287  -0.58660025]"
+204," Corsica (-99 / 204)
+center: [ 9.10491713 42.16186541]"
+205," France (FRA / 205)
+center: [ 2.45276214 46.6201147 ]"
+206," Mayotte (MYT / 206)
+center: [ 45.13452704 -12.82457027]"
+207," Réunion (REU / 207)
+center: [ 55.54127542 -21.11794666]"
+208," Martinique (MTQ / 208)
+center: [-61.02100536  14.65803013]"
+209," Guadeloupe (GLP / 209)
+center: [-61.6746313   16.16557217]"
+210," French Guiana (GUF / 210)
+center: [-53.24844369   3.92595292]"
+211," Saint Pierre and Miquelon (SPM / 211)
+center: [-56.32695226  46.94614016]"
+212," Wallis and Futuna (WLF / 212)
+center: [-178.12955393  -14.28573552]"
+213," Saint Martin (MAF / 213)
+center: [-63.05972851  18.08888611]"
+214," Saint Barthélemy (BLM / 214)
+center: [-62.84067779  17.89880451]"
+215," French Polynesia (PYF / 215)
+center: [-149.42024636  -17.66331046]"
+216," New Caledonia (NCL / 216)
+center: [165.4866976  -21.32517143]"
+217," French Southern and Antarctic Lands (ATF / 217)
+center: [ 69.49547044 -49.3042295 ]"
+218," Åland (ALA / 218)
+center: [19.94400982 60.23133494]"
+219," Finland (FIN / 219)
+center: [26.28354804 64.50497064]"
+220," Fiji (FJI / 220)
+center: [177.97282711 -17.82292078]"
+221," Ethiopia (ETH / 221)
+center: [39.60080098  8.62278679]"
+222," Estonia (EST / 222)
+center: [25.832165   58.68592077]"
+223," Eritrea (ERI / 223)
+center: [38.83795856 15.35950669]"
+224," Bioko (-99 / 224)
+center: [8.69936563 3.49061756]"
+225," Río Muni (-99 / 225)
+center: [10.47048259  1.56520049]"
+226," El Salvador (SLV / 226)
+center: [-88.87164469  13.73943744]"
+227," Egypt (EGY / 227)
+center: [29.86190099 26.49593311]"
+228," Ecuador (-99 / 228)
+center: [-78.38975666  -1.44537129]"
+229," Galápagos Province (-99 / 229)
+center: [-91.18679236  -0.56202797]"
+230," Dominican Republic (DOM / 230)
+center: [-70.50568896  18.89433082]"
+231," Dominica (DMA / 231)
+center: [-61.357726   15.4394702]"
+232," Djibouti (DJI / 232)
+center: [42.5606754  11.74871806]"
+233," Greenland (GRL / 233)
+center: [-41.35581221  74.71759825]"
+234," Faroe Islands (FRO / 234)
+center: [-6.8847479  62.17017602]"
+235," Denmark (DNK / 235)
+center: [ 9.35599632 56.24045732]"
+236," Bornholm (-99 / 236)
+center: [14.90195775 55.13680861]"
+237," Czech Republic (CZE / 237)
+center: [15.31240163 49.73341233]"
+238," Turkish Republic of Northern Cyprus (-99 / 238)
+center: [33.5684813  35.26277486]"
+239," Cyprus (CYP / 239)
+center: [33.0060022  34.91667211]"
+240," Cuba (CUB / 240)
+center: [-78.94339746  21.61424023]"
+241," Croatia (HRV / 241)
+center: [16.42389696 45.15944805]"
+242," Ivory Coast (CIV / 242)
+center: [-5.56970883  7.6289407 ]"
+243," Costa Rica (CRI / 243)
+center: [-84.19208768   9.97634464]"
+244," Democratic Republic of the Congo (COD / 244)
+center: [23.64396107 -2.87746289]"
+245," Republic of the Congo (COG / 245)
+center: [15.21965762 -0.83787463]"
+246," Comoros (COM / 246)
+center: [ 43.33914435 -11.65437816]"
+247," Colombia (COL / 247)
+center: [-73.08070655   3.91394921]"
+248," People's Republic of China (-99 / 248)
+center: [103.79740634  36.61687112]"
+249," Hainan (-99 / 249)
+center: [109.74164105  19.20008917]"
+250," Macau (MAC / 250)
+center: [113.50932116  22.22311688]"
+251," Hong Kong (HKG / 251)
+center: [114.13918765  22.43917627]"
+252," Easter Island (-99 / 252)
+center: [-109.34991008  -27.11921004]"
+253," Isla Salas y Gómez (-99 / 253)
+center: [-78.87651636 -33.62488874]"
+254," Chile (CHL / 254)
+center: [-71.31112819 -35.74807517]"
+255," Chad (TCD / 255)
+center: [18.64492513 15.33333758]"
+256," Central African Republic (CAF / 256)
+center: [20.46826831  6.56823297]"
+257," Cape Verde (CPV / 257)
+center: [-23.6371491   15.08240468]"
+258," Canada (CAN / 258)
+center: [-102.36576644   57.93467961]"
+259," Cameroon (CMR / 259)
+center: [12.73964156  5.69109849]"
+260," Cambodia (KHM / 260)
+center: [104.90793942  12.7209729 ]"
+261," Myanmar (MMR / 261)
+center: [96.48864617 21.221488  ]"
+262," Burundi (BDI / 262)
+center: [29.87512156 -3.35939666]"
+263," Burkina Faso (BFA / 263)
+center: [-1.75456601 12.26953846]"
+264," Bulgaria (BGR / 264)
+center: [25.21552909 42.76890318]"
+265," Brunei (BRN / 265)
+center: [114.59195822   4.49048994]"
+266," Brazil (BRA / 266)
+center: [-53.11693615 -10.84047608]"
+267," Botswana (BWA / 267)
+center: [ 23.79853368 -22.18403213]"
+268," Republika Srpska (-99 / 268)
+center: [18.04200398 44.252015  ]"
+269," Federation of Bosnia and Herzegovina (-99 / 269)
+center: [17.50361623 44.08915536]"
+270," Bolivia (BOL / 270)
+center: [-64.68538645 -16.70814787]"
+271," Bhutan (BTN / 271)
+center: [90.40188155 27.41106589]"
+272," Benin (BEN / 272)
+center: [2.32785254 9.6417597 ]"
+273," Belize (BLZ / 273)
+center: [-88.71846155  17.19473112]"
+274," Flemish Brabant (-99 / 274)
+center: [ 4.21237053 51.03773231]"
+275," Walloon Brabant (-99 / 275)
+center: [ 4.99254132 50.31436823]"
+276," Brussels Capital Region (-99 / 276)
+center: [ 4.33791304 50.83301698]"
+277," Belarus (BLR / 277)
+center: [28.03209307 53.53131377]"
+278," Barbados (BRB / 278)
+center: [-59.559797    13.18145428]"
+279," Bangladesh (BGD / 279)
+center: [90.22405508 23.89751969]"
+280," Bahrain (BHR / 280)
+center: [50.54196932 26.04205135]"
+281," The Bahamas (BHS / 281)
+center: [-78.03780359  24.7013991 ]"
+282," Azerbaijan (AZE / 282)
+center: [47.66493967 40.34399711]"
+283," Austria (AUT / 283)
+center: [14.1264761  47.58549439]"
+284," Australia (AUS / 284)
+center: [134.35514544 -25.57318043]"
+285," Tasmania (-99 / 285)
+center: [146.59541363 -42.01710441]"
+286," Macquarie Island (-99 / 286)
+center: [158.89752712 -54.60220914]"
+287," Christmas Island (CXR / 287)
+center: [105.66238708 -10.49269337]"
+288," Cocos (CCK / 288)
+center: [ 96.84244247 -12.1678885 ]"
+289," Heard Island and McDonald Islands (HMD / 289)
+center: [ 73.5205171  -53.08724656]"
+290," Norfolk Island (NFK / 290)
+center: [167.94921678 -29.0514609 ]"
+291," Ashmore and Cartier Islands (-99 / 291)
+center: [123.58383789 -12.42993164]"
+292," Armenia (ARM / 292)
+center: [44.92914119 40.28906214]"
+293," Argentina (ARG / 293)
+center: [-65.15610281 -35.17996177]"
+294," Antigua (-99 / 294)
+center: [-61.78996503  17.07777802]"
+295," Barbuda (-99 / 295)
+center: [-61.80316791  17.63545076]"
+296," Angola (AGO / 296)
+center: [ 17.56443992 -12.33194931]"
+297," Andorra (AND / 297)
+center: [ 1.56054378 42.54229102]"
+298," Algeria (DZA / 298)
+center: [ 2.61732301 28.15893849]"
+299," Albania (ALB / 299)
+center: [20.04983396 41.14244989]"
+300," Afghanistan (AFG / 300)
+center: [66.00473366 33.83523073]"
+301," Siachen Glacier (-99 / 301)
+center: [77.18011865 35.39236325]"
+302," South Orkney Islands (-99 / 302)
+center: [-45.58046065 -60.602043  ]"
+303," Peter I Island (-99 / 303)
+center: [-90.58282906 -68.7588765 ]"
+304," Antarctica (-99 / 304)
+center: [ 20.80425935 -80.56015146]"
+305," Sint Maarten (SXM / 305)
+center: [-63.05713363  18.05081728]"
+306," Autonomous Republic of Crimea (-99 / 306)
+center: [34.34758287 45.3101718 ]"
+307," Tuvalu (TUV / 307)
+center: [179.20556525  -8.50345126]"
